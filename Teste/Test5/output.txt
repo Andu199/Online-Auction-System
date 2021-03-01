@@ -1,0 +1,226 @@
+Auction House has started! (1 Admin and 3 Brokers)
+
+Product Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0 has been added!
+
+Product Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0 has been added!
+
+Product Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Necklace (id: 12) from year 1984 made of Silver. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0 has been added!
+
+Product Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 has been added!
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0 has been added!
+
+New Broker has been added!
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+New Broker has been added!
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 has been added!
+
+New Broker has been added!
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 has been added!
+
+New Broker has been added!
+
+List with all clients:
+
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0
+Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0
+Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0
+
+List with all products:
+
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Regular Expensive Necklace (id: 12) from year 1984 made of Silver. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 12
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 13
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 21
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 20
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 12
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 13
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 11
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 25
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 20
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 12
+
+In auction 12, in the round 1, the winner is Popeci (current offer 306.2760473351363EUR)
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 13
+
+In auction 13, in the round 1, the winner is MacroREX (current offer 134.15456554628608EUR)
+
+In auction 12, in the round 2, the winner is Popeci (current offer 378.73775632621835EUR)
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 21
+
+In auction 21, in the round 1, the winner is Popeci (current offer 268.06685754785815EUR)
+
+In auction 13, in the round 2, the winner is MacroREX (current offer 300.76319234283017EUR)
+
+Product with id 12 has been sold for 378.73775632621835EUR
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 1, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+In auction 25, in the round 1, the winner is Minerva (current offer 554.463124181947EUR)
+
+In auction 13, in the round 3, the winner is MacroREX (current offer 392.542683910897EUR)
+
+In auction 21, in the round 2, the winner is Popeci (current offer 597.7546779749755EUR)
+
+In auction 21, in the round 3, the winner is Popeci (current offer 598.4976781299613EUR)
+
+In auction 25, in the round 2, the winner is Popeci (current offer 734.2088267113376EUR)
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 1, Auctions won: 0, Social capital: 20.0 is interested in product with id 20
+
+Product with id 13 has been sold for 392.542683910897EUR
+
+Product with id 21 has been sold for 598.4976781299613EUR
+
+PRODUCT NOT FOUND
+
+
+Product with id 25 has not been sold
+
+PRODUCT NOT FOUND
+
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 11
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 20
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 25
+
+In auction 25, in the round 1, the winner is Popeci (current offer 770.7839550941178EUR)
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 20
+
+In auction 20, in the round 1, the winner is MacroREX (current offer 945.0527511715201EUR)
+
+In auction 25, in the round 2, the winner is MacroREX (current offer 945.3846943397192EUR)
+
+In auction 20, in the round 2, the winner is Pigna (current offer 996.5749518957143EUR)
+
+Product with id 25 has not been sold
+
+List with all products:
+
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+
+In auction 20, in the round 3, the winner is MacroREX (current offer 1046.1252568059397EUR)
+
+List with all clients:
+
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 5, Auctions won: 2, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 5, Auctions won: 1, Social capital: 20.0
+Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0
+Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 1, Auctions won: 0, Social capital: 20.0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 1, Auctions won: 0, Social capital: 50.0
+Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 4, Auctions won: 0, Social capital: 15.0
+
+In auction 20, in the round 4, the winner is Minerva (current offer 1049.765170720367EUR)
+
+Product with id 20 has been sold for 1049.765170720367EUR
+
+Process finished with exit code 0

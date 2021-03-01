@@ -1,0 +1,59 @@
+start,4
+addproduct,Jewel,22,Anubis Ruby,1500,800,2,Platinum,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addproduct,Furniture,24,Old Clock,1000,400,1899,Clock,Wood
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addproduct,Furniture,26,Byzantine Reliquary Casket,900,400,897,Casket,Ivory
+addproduct,Painting,27,The Garden of Earthly Delights,1800,900,1503,Hieronymus Bosch,OIL
+addproduct,Jewel,28,Hair Ornament,1500,700,1802,Gold,true
+addproduct,Painting,29,The Starry Night,1700,900,1889,Vincent van Gogh,OIL
+addclient,Juridical,1007,MacroREX,Str. Patimii,SRL,20
+addclient,Juridical,1012,Pirelli,Str. Draganesti,SRL,50
+addclient,Natural,1001,Andrei Popescu,Blv. Iuliu Maniu,5.12.1974
+printproducts
+bidforproduct,clientID,1001,productID,23,maxprice,300
+bidforproduct,clientID,1001,productID,26,maxprice,1000
+addproduct,Painting,29,The Starry Night,1700,900,1889,Vincent van Gogh,OIL
+addproduct,Painting,30,The Birth of Venus,1500,700,1486,Sandro Botticelli,TEMPERA
+addproduct,Furniture,31,The Seated Woman of Çatalhöyük,1200,500,-6000,Statue,Rock
+bidforproduct,clientID,1001,productID,29,maxprice,1000
+bidforproduct,clientID,1012,productID,23,maxprice,400
+bidforproduct,clientID,1007,productID,26,maxprice,900
+bidforproduct,clientID,1012,productID,26,maxprice,1100
+bidforproduct,clientID,1007,productID,23,maxprice,100
+addclient,Natural,1002,Maria Ionescu,Str. Sararilor,1.4.1988
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Juridical,1004,Oltchim,Calea Bucuresti,SA,30
+printclients
+addbroker
+addbroker
+bidforproduct,clientID,1002,productID,26,maxprice,1050
+bidforproduct,clientID,1002,productID,23,maxprice,500
+bidforproduct,clientID,1004,productID,26,maxprice,1200
+bidforproduct,clientID,1004,productID,23,maxprice,600
+addproduct,Painting,32,Madonna and Child,1600,800,1300,Duccio,TEMPERA
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+addproduct,Furniture,34,Stool with Woven Seat,1000,500,100,Stool,Wood & Reed
+addproduct,Painting,35,Forest,1200,600,1904,Paul Cézanne,ACRYLIC
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+addproduct,Painting,38,American Gothic,1500,700,1930,Grant Wood,OIL
+addproduct,Painting,39,Nighthawks,1300,600,1942,Edward Hopper,OIL
+addproduct,Furniture,40,Chair of Hatnefer,1000,450,1492,Chair,Boxwood
+printproducts
+bidforproduct,clientID,1003,productID,40,maxprice,200
+bidforproduct,clientID,1003,productID,36,maxprice,1200
+bidforproduct,clientID,1003,productID,32,maxprice,200
+bidforproduct,clientID,1002,productID,40,maxprice,500
+bidforproduct,clientID,1002,productID,36,maxprice,900
+bidforproduct,clientID,1004,productID,40,maxprice,400
+bidforproduct,clientID,1004,productID,36,maxprice,1000
+bidforproduct,clientID,1001,productID,40,maxprice,450
+bidforproduct,clientID,1001,productID,36,maxprice,1200
+printbrokers
+printclients
+printproducts
+quit
+
+
+

@@ -1,0 +1,216 @@
+Auction House has started! (1 Admin and 7 Brokers)
+
+Product Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 has been added!
+
+List with all products:
+
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 27
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 25
+
+In auction 25, in the round 1, the winner is Popeci (current offer 363.65970802792793EUR)
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 27
+
+In auction 25, in the round 2, the winner is Maria Ionescu (current offer 719.4338511640171EUR)
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 is interested in product with id 27
+
+Product with id 25 has not been sold
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 is interested in product with id 25
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 is interested in product with id 27
+
+In auction 27, in the round 1, the winner is Dan Daniel (current offer 1141.5527248750318EUR)
+
+In auction 27, in the round 2, the winner is Dan Daniel (current offer 1159.7994375085193EUR)
+
+Product Product (Painting OIL) Gioconda (id: 1) from year 1503 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Painting TEMPERA) Fallen Angel (id: 2) from year 1847 by Alexandre Cabanel. Last selling price: 1500.0, Minimum sell price: 750.0 has been added!
+
+Product with id 27 has been sold for 1159.7994375085193EUR
+
+Product Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0 has been added!
+
+Product Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0 has been added!
+
+List with all products:
+
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Gioconda (id: 1) from year 1503 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting TEMPERA) Fallen Angel (id: 2) from year 1847 by Alexandre Cabanel. Last selling price: 1500.0, Minimum sell price: 750.0
+Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+
+List with all brokers and their profit:
+
+Broker with profit 231.95988750170386
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+
+List with all clients:
+
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0
+Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0
+Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0
+Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 1, Auctions won: 1
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 8
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 1
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 2
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 8
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0 is interested in product with id 3
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0 is interested in product with id 8
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0 is interested in product with id 2
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 8
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 3
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 1
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0 is interested in product with id 8
+
+In auction 8, in the round 1, the winner is Matei Lupu (current offer 568.8341581070812EUR)
+
+In auction 8, in the round 2, the winner is Bill Gates (current offer 677.2183589623903EUR)
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0 is interested in product with id 3
+
+In auction 3, in the round 1, the winner is Matei Lupu (current offer 797.3507434214874EUR)
+
+In auction 8, in the round 3, the winner is Bill Gates (current offer 696.8709591920743EUR)
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0 is interested in product with id 2
+
+In auction 2, in the round 1, the winner is Bill Gates (current offer 725.1066030334457EUR)
+
+In auction 3, in the round 2, the winner is Bill Gates (current offer 1115.816330740371EUR)
+
+Product with id 8 has been sold for 696.8709591920743EUR
+
+In auction 2, in the round 2, the winner is Pablo Escobar (current offer 1279.4946025356999EUR)
+
+List with all products:
+
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Gioconda (id: 1) from year 1503 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+
+In auction 3, in the round 3, the winner is Bill Gates (current offer 1122.6809218629137EUR)
+
+In auction 2, in the round 3, the winner is Pablo Escobar (current offer 1290.7219243333395EUR)
+
+In auction 3, in the round 4, the winner is Bill Gates (current offer 1175.038178802503EUR)
+
+In auction 2, in the round 4, the winner is Pablo Escobar (current offer 1298.854196400969EUR)
+
+Product with id 3 has been sold for 1175.038178802503EUR
+
+Product with id 2 has been sold for 1298.854196400969EUR
+
+Process finished with exit code 0

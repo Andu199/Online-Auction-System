@@ -1,0 +1,52 @@
+start,6
+addproduct,Jewel,28,Hair Ornament,1500,700,1802,Gold,true
+addproduct,Painting,29,The Starry Night,1700,900,1889,Vincent van Gogh,OIL
+addproduct,Painting,30,The Birth of Venus,1500,700,1486,Sandro Botticelli,TEMPERA
+addproduct,Furniture,31,The Seated Woman of Çatalhöyük,1200,500,-6000,Statue,Rock
+addproduct,Painting,32,Madonna and Child,1600,800,1300,Duccio,TEMPERA
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+addproduct,Furniture,34,Stool with Woven Seat,1000,500,100,Stool,Wood & Reed
+addproduct,Painting,35,Forest,1200,600,1904,Paul Cézanne,ACRYLIC
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+addproduct,Jewel,14,Queen Victoria's Necklace,1500,800,1837,Gold,false
+addproduct,Jewel,15,Queen Victoria's Earrings,1200,750,1832,Gold,true
+addproduct,Painting,16,Guernica,1800,900,1937,Pablo Picasso,OIL
+addproduct,Furniture,17,King Arthur's Armor,1800,950,1030,Armor,Steel
+addproduct,Furniture,18,Tesla's Desk,500,350,1882,Desk,Wood
+addproduct,Painting,19,Girl with a Pearl Earring,1800,900,1665,Johannes Vermeer,OIL
+addproduct,Painting,20,Naked Man,1400,750,2013,Banksy,ACRYLIC
+addproduct,Furniture,21,Aladin's Carpet,1000,500,1174,Carpet,Wool
+addproduct,Jewel,22,Anubis Ruby,1500,800,2,Platinum,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addclient,Natural,1005,Matei Lupu,Splaiul Independentei,1.2.1982
+addclient,Natural,1006,Bill Gates,Str. Florii,28.10.1865
+addclient,Juridical,1007,MacroREX,Str. Patimii,SRL,20
+printproducts
+bidforproduct,clientID,1005,productID,28,maxprice,800
+bidforproduct,clientID,1005,productID,35,maxprice,900
+bidforproduct,clientID,1006,productID,20,maxprice,700
+bidforproduct,clientID,1005,productID,20,maxprice,750
+bidforproduct,clientID,1007,productID,21,maxprice,725
+bidforproduct,clientID,1006,productID,16,maxprice,850
+bidforproduct,clientID,1007,productID,28,maxprice,850
+bidforproduct,clientID,1007,productID,17,maxprice,1100
+bidforproduct,clientID,1007,productID,16,maxprice,800
+bidforproduct,clientID,1006,productID,21,maxprice,800
+bidforproduct,clientID,1005,productID,17,maxprice,1000
+bidforproduct,clientID,1006,productID,35,maxprice,950
+addclient,Natural,1001,Andrei Popescu,Blv. Iuliu Maniu,5.12.1974
+addclient,Natural,1002,Maria Ionescu,Str. Sararilor,1.4.1988
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+printclients
+printproducts
+bidforproduct,clientID,1001,productID,28,maxprice,750
+bidforproduct,clientID,1001,productID,35,maxprice,800
+bidforproduct,clientID,1001,productID,20,maxprice,1000
+bidforproduct,clientID,1002,productID,17,maxprice,1275
+bidforproduct,clientID,1002,productID,16,maxprice,1000
+bidforproduct,clientID,1003,productID,21,maxprice,600
+printbrokers
+printproducts
+printclients
+exit

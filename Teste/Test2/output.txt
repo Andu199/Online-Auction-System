@@ -1,0 +1,196 @@
+Auction House has started! (1 Admin and 5 Brokers)
+
+Product Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0 has been added!
+
+Product Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 has been added!
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 has been added!
+
+List with all products:
+
+Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 16
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 17
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 18
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 19
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 20
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 16
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 17
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 21
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 16
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 16
+
+In auction 16, in the round 1, the winner is Bill Gates (current offer 734.4446589285644EUR)
+
+Product Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0 has been added!
+
+In auction 16, in the round 2, the winner is Bill Gates (current offer 994.9100681607206EUR)
+
+Product Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+In auction 16, in the round 3, the winner is Bill Gates (current offer 1005.245628024198EUR)
+
+Product Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product with id 16 has been sold for 1005.245628024198EUR
+
+Product Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 1, Auctions won: 0 is interested in product with id 19
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 1, Auctions won: 0 is interested in product with id 20
+
+Client Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0 has been added!
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+List with all products:
+
+Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+
+List with all clients:
+
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 0, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 1, Auctions won: 0, Social capital: 30.0
+Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 1, Auctions won: 0
+Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 1, Auctions won: 1
+Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0
+Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0
+
+Client Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0 is interested in product with id 17
+
+Client Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0 is interested in product with id 19
+
+Client Juridical Person Varga SA (id: 1008), with address: Str. Antonescu. Attendances: 0, Auctions won: 0, Social capital: 35.0 is interested in product with id 20
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 17
+
+In auction 17, in the round 1, the winner is Matei Lupu (current offer 1013.3824784017746EUR)
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 19
+
+In auction 19, in the round 1, the winner is Varga (current offer 622.758339617943EUR)
+
+In auction 17, in the round 2, the winner is Pigna (current offer 1076.4634607259127EUR)
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 20
+
+In auction 19, in the round 2, the winner is Varga (current offer 641.3512004682703EUR)
+
+In auction 17, in the round 3, the winner is Matei Lupu (current offer 1198.471030052296EUR)
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 1, Auctions won: 0, Social capital: 30.0 is interested in product with id 20
+
+In auction 20, in the round 1, the winner is Pigna (current offer 625.701017554263EUR)
+
+In auction 19, in the round 3, the winner is Varga (current offer 647.053471345647EUR)
+
+Product with id 17 has been sold for 1198.471030052296EUR
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+List with all brokers and their profit:
+
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 440.74333161529887
+Broker with profit 0.0
+Broker with profit 0.0
+
+In auction 20, in the round 2, the winner is Varga (current offer 794.3514094583502EUR)
+
+Product with id 19 has not been sold
+
+Product with id 20 has been sold for 794.3514094583502EUR
+
+Process finished with exit code 0

@@ -1,0 +1,62 @@
+start,4
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addproduct,Furniture,26,Byzantine Reliquary Casket,900,400,897,Casket,Ivory
+addproduct,Painting,27,The Garden of Earthly Delights,1800,900,1503,Hieronymus Bosch,OIL
+addproduct,Jewel,28,Hair Ornament,1500,700,1802,Gold,true
+addproduct,Painting,29,The Starry Night,1700,900,1889,Vincent van Gogh,OIL
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+addproduct,Painting,38,American Gothic,1500,700,1930,Grant Wood,OIL
+addproduct,Painting,39,Nighthawks,1300,600,1942,Edward Hopper,OIL
+addproduct,Furniture,40,Chair of Hatnefer,1000,450,1492,Chair,Boxwood
+addclient,Juridical,1013,Minerva,Str. Ploiesti,SA,15
+addclient,Natural,1001,Andrei Popescu,Blv. Iuliu Maniu,5.12.1974
+printproducts
+addclient,Juridical,1004,Oltchim,Calea Bucuresti,SA,30
+bidforproduct,clientID,1013,productID,39,maxprice,750
+bidforproduct,clientID,1001,productID,39,maxprice,800
+addclient,Natural,1010,Pablo Escobar,Str. Vasile Lupu,12.8.1957
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addbroker
+bidforproduct,clientID,1013,productID,25,maxprice,900
+bidforproduct,clientID,1013,productID,27,maxprice,1000
+bidforproduct,clientID,1001,productID,27,maxprice,950
+bidforproduct,clientID,1001,productID,25,maxprice,1050
+addclient,Juridical,1007,MacroREX,Str. Patimii,SRL,20
+addbroker
+bidforproduct,clientID,1007,productID,36,maxprice,900
+bidforproduct,clientID,1007,productID,39,maxprice,850
+bidforproduct,clientID,1010,productID,39,maxprice,750
+bidforproduct,clientID,1003,productID,39,maxprice,800
+addproduct,Jewel,3,One Ring,1500,800,50,Gold,false
+addproduct,Furniture,4,Royal Table,2000,1000,1561,Table,Wood
+addproduct,Painting,5,Elephants,1200,700,1948,Salvador Dali,OIL
+addproduct,Furniture,6,Royal Chair,800,500,1837,Chair,Gold
+addproduct,Jewel,7,King Arthur's Ring,2000,1250,1012,Gold,true
+addproduct,Furniture,8,Einstein's Bookcase,500,350,1915,Bookcase,Wood
+addproduct,Jewel,9,Regular Expensive Ring,100,20,1957,Silver,true
+addproduct,Painting,10,Splash,1000,500,1999,Unknown,ACRYLIC
+addproduct,Furniture,11,Royal Bed,2000,500,1712,Bed,Wood
+addproduct,Jewel,12,Regular Expensive Necklace,500,100,1984,Silver,true
+printproducts
+bidforproduct,clientID,1007,productID,25,maxprice,1000
+bidforproduct,clientID,1007,productID,27,maxprice,950
+bidforproduct,clientID,1003,productID,25,maxprice,1050
+bidforproduct,clientID,1003,productID,27,maxprice,1000
+printclients
+bidforproduct,clientID,1007,productID,29,maxprice,950
+bidforproduct,clientID,1007,productID,40,maxprice,200
+bidforproduct,clientID,1003,productID,36,maxprice,1000
+bidforproduct,clientID,1003,productID,29,maxprice,900
+bidforproduct,clientID,1003,productID,26,maxprice,300
+bidforproduct,clientID,1013,productID,36,maxprice,950
+bidforproduct,clientID,1013,productID,29,maxprice,975
+bidforproduct,clientID,1013,productID,40,maxprice,450
+bidforproduct,clientID,1001,productID,29,maxprice,1000
+bidforproduct,clientID,1010,productID,29,maxprice,1000
+printbrokers
+printproducts
+quit
+
+
+

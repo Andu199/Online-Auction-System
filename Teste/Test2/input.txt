@@ -1,0 +1,59 @@
+start,5
+addproduct,Jewel,13,Regular Expensive Earrings,500,100,2009,Gold,false
+addproduct,Jewel,14,Queen Victoria's Necklace,1500,800,1837,Gold,false
+addproduct,Jewel,15,Queen Victoria's Earrings,1200,750,1832,Gold,true
+addproduct,Painting,16,Guernica,1800,900,1937,Pablo Picasso,OIL
+addproduct,Furniture,17,King Arthur's Armor,1800,950,1030,Armor,Steel
+addproduct,Furniture,18,Tesla's Desk,500,350,1882,Desk,Wood
+addproduct,Painting,19,Girl with a Pearl Earring,1800,900,1665,Johannes Vermeer,OIL
+addproduct,Painting,20,Naked Man,1400,750,2013,Banksy,ACRYLIC
+addproduct,Furniture,21,Aladin's Carpet,1000,500,1174,Carpet,Wool
+addproduct,Jewel,22,Anubis Ruby,1500,800,2,Platinum,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addproduct,Furniture,24,Old Clock,1000,400,1899,Clock,Wood
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Juridical,1004,Oltchim,Calea Bucuresti,SA,30
+addclient,Natural,1005,Matei Lupu,Splaiul Independentei,1.2.1982
+addclient,Natural,1006,Bill Gates,Str. Florii,28.10.1865
+printproducts
+bidforproduct,clientID,1003,productID,16,maxprice,1000
+bidforproduct,clientID,1003,productID,17,maxprice,1000
+bidforproduct,clientID,1003,productID,18,maxprice,500
+bidforproduct,clientID,1003,productID,19,maxprice,500
+bidforproduct,clientID,1003,productID,20,maxprice,750
+bidforproduct,clientID,1005,productID,16,maxprice,800
+bidforproduct,clientID,1005,productID,17,maxprice,1200
+bidforproduct,clientID,1005,productID,21,maxprice,700
+bidforproduct,clientID,1006,productID,16,maxprice,1100
+bidforproduct,clientID,1004,productID,16,maxprice,950
+addproduct,Furniture,26,Byzantine Reliquary Casket,900,400,897,Casket,Ivory
+addproduct,Painting,27,The Garden of Earthly Delights,1800,900,1503,Hieronymus Bosch,OIL
+addproduct,Jewel,28,Hair Ornament,1500,700,1802,Gold,true
+addproduct,Painting,29,The Starry Night,1700,900,1889,Vincent van Gogh,OIL
+addproduct,Painting,30,The Birth of Venus,1500,700,1486,Sandro Botticelli,TEMPERA
+addproduct,Furniture,31,The Seated Woman of Çatalhöyük,1200,500,-6000,Statue,Rock
+addproduct,Painting,32,Madonna and Child,1600,800,1300,Duccio,TEMPERA
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+bidforproduct,clientID,1005,productID,19,maxprice,600
+bidforproduct,clientID,1005,productID,20,maxprice,800
+addclient,Juridical,1008,Varga,Str. Antonescu,SA,35
+addclient,Juridical,1009,Pigna,Sos. Banatului,SRL,20
+printproducts
+printclients
+bidforproduct,clientID,1008,productID,17,maxprice,1000
+bidforproduct,clientID,1008,productID,19,maxprice,650
+bidforproduct,clientID,1008,productID,20,maxprice,900
+bidforproduct,clientID,1009,productID,17,maxprice,1100
+bidforproduct,clientID,1009,productID,19,maxprice,600
+bidforproduct,clientID,1009,productID,20,maxprice,900
+bidforproduct,clientID,1004,productID,17,maxprice,1050
+bidforproduct,clientID,1004,productID,19,maxprice,600
+bidforproduct,clientID,1004,productID,20,maxprice,850
+bidforproduct,clientID,1006,productID,17,maxprice,950
+bidforproduct,clientID,1006,productID,19,maxprice,550
+bidforproduct,clientID,1006,productID,20,maxprice,400
+printbrokers
+quit
+
+

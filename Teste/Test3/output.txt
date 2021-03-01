@@ -1,0 +1,210 @@
+Auction House has started! (1 Admin and 4 Brokers)
+
+Product Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0 has been added!
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 has been added!
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 has been added!
+
+List with all products:
+
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 23
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 26
+
+Product Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0 has been added!
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 29
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 23
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 26
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 26
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 23
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 has been added!
+
+List with all clients:
+
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0
+
+New Broker has been added!
+
+New Broker has been added!
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 26
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 23
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 26
+
+In auction 26, in the round 1, the winner is Oltchim (current offer 979.8768351573054EUR)
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 23
+
+In auction 23, in the round 1, the winner is Oltchim (current offer 519.9703788620042EUR)
+
+In auction 26, in the round 2, the winner is Oltchim (current offer 1073.3020588110376EUR)
+
+Product Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+In auction 23, in the round 2, the winner is Oltchim (current offer 576.0193654132438EUR)
+
+Product with id 26 has been sold for 1073.3020588110376EUR
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+In auction 23, in the round 3, the winner is Oltchim (current offer 585.6448202959137EUR)
+
+Product Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product with id 23 has been sold for 585.6448202959137EUR
+
+Product Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0 has been added!
+
+List with all products:
+
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0
+Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 40
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 36
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 32
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0 is interested in product with id 40
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0 is interested in product with id 36
+
+In auction 36, in the round 1, the winner is Maria Ionescu (current offer 284.7739606102583EUR)
+
+In auction 36, in the round 2, the winner is Popeci (current offer 354.86936785719246EUR)
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 2, Auctions won: 2, Social capital: 30.0 is interested in product with id 40
+
+In auction 40, in the round 1, the winner is Oltchim (current offer 392.60906297679134EUR)
+
+In auction 36, in the round 3, the winner is Popeci (current offer 1171.715983118732EUR)
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+List with all brokers and their profit:
+
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 146.41120507397844
+Broker with profit 268.3255147027594
+
+In auction 40, in the round 2, the winner is Maria Ionescu (current offer 437.8176845859974EUR)
+
+Product with id 36 has been sold for 1171.715983118732EUR
+
+In auction 40, in the round 3, the winner is Maria Ionescu (current offer 487.03435610058256EUR)
+
+List with all clients:
+
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 2, Auctions won: 0, Social capital: 20.0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 2, Auctions won: 0, Social capital: 50.0
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 2, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 3, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 1, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 2, Auctions won: 2, Social capital: 30.0
+
+Product with id 40 has been sold for 487.03435610058256EUR
+
+List with all products:
+
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0
+
+Process finished with exit code 0

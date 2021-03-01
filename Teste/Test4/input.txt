@@ -1,0 +1,57 @@
+start,7
+addproduct,Painting,32,Madonna and Child,1600,800,1300,Duccio,TEMPERA
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+addproduct,Furniture,34,Stool with Woven Seat,1000,500,100,Stool,Wood & Reed
+addproduct,Painting,35,Forest,1200,600,1904,Paul Cézanne,ACRYLIC
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addproduct,Furniture,24,Old Clock,1000,400,1899,Clock,Wood
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addproduct,Furniture,26,Byzantine Reliquary Casket,900,400,897,Casket,Ivory
+addproduct,Painting,27,The Garden of Earthly Delights,1800,900,1503,Hieronymus Bosch,OIL
+addclient,Natural,1002,Maria Ionescu,Str. Sararilor,1.4.1988
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Natural,1005,Matei Lupu,Splaiul Independentei,1.2.1982
+addclient,Natural,1006,Bill Gates,Str. Florii,28.10.1865
+addclient,Natural,1010,Pablo Escobar,Str. Vasile Lupu,12.8.1957
+addclient,Natural,1011,Dan Daniel,Str. Pietatii,24.6.1975
+printproducts
+bidforproduct,clientID,1003,productID,25,maxprice,800
+bidforproduct,clientID,1003,productID,27,maxprice,1000
+bidforproduct,clientID,1002,productID,25,maxprice,750
+bidforproduct,clientID,1002,productID,27,maxprice,1100
+bidforproduct,clientID,1010,productID,25,maxprice,950
+bidforproduct,clientID,1010,productID,27,maxprice,1050
+bidforproduct,clientID,1011,productID,25,maxprice,900
+bidforproduct,clientID,1011,productID,27,maxprice,1200
+addproduct,Painting,1,Gioconda,2000,1000,1503,Leonardo da Vinci,OIL
+addproduct,Painting,2,Fallen Angel,1500,750,1847,Alexandre Cabanel,TEMPERA
+addproduct,Jewel,3,One Ring,1500,800,50,Gold,false
+addproduct,Furniture,4,Royal Table,2000,1000,1561,Table,Wood
+addproduct,Painting,5,Elephants,1200,700,1948,Salvador Dali,OIL
+addproduct,Furniture,6,Royal Chair,800,500,1837,Chair,Gold
+addproduct,Jewel,7,King Arthur's Ring,2000,1250,1012,Gold,true
+addproduct,Furniture,8,Einstein's Bookcase,500,350,1915,Bookcase,Wood
+addproduct,Jewel,9,Regular Expensive Ring,100,20,1957,Silver,true
+printproducts
+printbrokers
+printclients
+bidforproduct,clientID,1005,productID,8,maxprice,600
+bidforproduct,clientID,1005,productID,3,maxprice,1000
+bidforproduct,clientID,1005,productID,1,maxprice,3000
+bidforproduct,clientID,1006,productID,3,maxprice,1200
+bidforproduct,clientID,1006,productID,2,maxprice,900
+bidforproduct,clientID,1006,productID,8,maxprice,700
+bidforproduct,clientID,1002,productID,3,maxprice,1000
+bidforproduct,clientID,1002,productID,8,maxprice,500
+bidforproduct,clientID,1002,productID,2,maxprice,1100
+bidforproduct,clientID,1003,productID,8,maxprice,400
+bidforproduct,clientID,1003,productID,3,maxprice,1100
+bidforproduct,clientID,1003,productID,1,maxprice,1800
+bidforproduct,clientID,1010,productID,8,maxprice,450
+bidforproduct,clientID,1010,productID,3,maxprice,1150
+bidforproduct,clientID,1010,productID,2,maxprice,1300
+printproducts
+exit
+

@@ -1,0 +1,56 @@
+start,5
+addclient,Natural,1002,Maria Ionescu,Str. Sararilor,1.4.1988
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Juridical,1004,Oltchim,Calea Bucuresti,SA,30
+addproduct,Jewel,3,One Ring,1500,800,50,Gold,false
+addproduct,Furniture,4,Royal Table,2000,1000,1561,Table,Wood
+addproduct,Painting,5,Elephants,1200,700,1948,Salvador Dali,OIL
+addproduct,Furniture,6,Royal Chair,800,500,1837,Chair,Gold
+addproduct,Jewel,13,Regular Expensive Earrings,500,100,2009,Gold,false
+addproduct,Furniture,17,King Arthur's Armor,1800,950,1030,Armor,Steel
+addproduct,Furniture,18,Tesla's Desk,500,350,1882,Desk,Wood
+addproduct,Painting,19,Girl with a Pearl Earring,1800,900,1665,Johannes Vermeer,OIL
+addproduct,Painting,20,Naked Man,1400,750,2013,Banksy,ACRYLIC
+addproduct,Furniture,21,Aladin's Carpet,1000,500,1174,Carpet,Wool
+addproduct,Jewel,22,Anubis Ruby,1500,800,2,Platinum,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addproduct,Furniture,24,Old Clock,1000,400,1899,Clock,Wood
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addproduct,Furniture,26,Byzantine Reliquary Casket,900,400,897,Casket,Ivory
+bidforproduct,clientID,1003,productID,19,maxprice,1200
+bidforproduct,clientID,1003,productID,21,maxprice,750
+bidforproduct,clientID,1003,productID,25,maxprice,1200
+bidforproduct,clientID,1003,productID,3,maxprice,950
+bidforproduct,clientID,1003,productID,18,maxprice,300
+bidforproduct,clientID,1002,productID,19,maxprice,1200
+bidforproduct,clientID,1004,productID,25,maxprice,1100
+bidforproduct,clientID,1002,productID,25,maxprice,1250
+bidforproduct,clientID,1002,productID,3,maxprice,750
+bidforproduct,clientID,1004,productID,3,maxprice,1000
+addclient,Natural,1010,Pablo Escobar,Str. Vasile Lupu,12.8.1957
+addclient,Natural,1011,Dan Daniel,Str. Pietatii,24.6.1975
+addclient,Juridical,1012,Pirelli,Str. Draganesti,SRL,50
+addbroker
+printclients
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+addproduct,Furniture,34,Stool with Woven Seat,1000,500,100,Stool,Wood & Reed
+addproduct,Painting,35,Forest,1200,600,1904,Paul Cézanne,ACRYLIC
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+printproducts
+bidforproduct,clientID,1004,productID,19,maxprice,1100
+bidforproduct,clientID,1012,productID,19,maxprice,1050
+bidforproduct,clientID,1012,productID,25,maxprice,1050
+bidforproduct,clientID,1012,productID,18,maxprice,600
+bidforproduct,clientID,1012,productID,3,maxprice,500
+bidforproduct,clientID,1011,productID,21,maxprice,750
+bidforproduct,clientID,1011,productID,19,maxprice,1125
+bidforproduct,clientID,1011,productID,3,maxprice,700
+bidforproduct,clientID,1011,productID,18,maxprice,500
+bidforproduct,clientID,1010,productID,3,maxprice,1000
+bidforproduct,clientID,1010,productID,21,maxprice,550
+bidforproduct,clientID,1010,productID,19,maxprice,1000
+bidforproduct,clientID,1010,productID,18,maxprice,575
+printclients
+printbrokers
+quit

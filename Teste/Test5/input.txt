@@ -1,0 +1,62 @@
+start,3
+addproduct,Furniture,6,Royal Chair,800,500,1837,Chair,Gold
+addproduct,Jewel,7,King Arthur's Ring,2000,1250,1012,Gold,true
+addproduct,Furniture,8,Einstein's Bookcase,500,350,1915,Bookcase,Wood
+addproduct,Jewel,9,Regular Expensive Ring,100,20,1957,Silver,true
+addproduct,Painting,10,Splash,1000,500,1999,Unknown,ACRYLIC
+addproduct,Furniture,11,Royal Bed,2000,500,1712,Bed,Wood
+addproduct,Jewel,12,Regular Expensive Necklace,500,100,1984,Silver,true
+addproduct,Jewel,13,Regular Expensive Earrings,500,100,2009,Gold,false
+addproduct,Jewel,14,Queen Victoria's Necklace,1500,800,1837,Gold,false
+addproduct,Jewel,15,Queen Victoria's Earrings,1200,750,1832,Gold,true
+addproduct,Painting,16,Guernica,1800,900,1937,Pablo Picasso,OIL
+addproduct,Furniture,17,King Arthur's Armor,1800,950,1030,Armor,Steel
+addproduct,Furniture,18,Tesla's Desk,500,350,1882,Desk,Wood
+addproduct,Painting,19,Girl with a Pearl Earring,1800,900,1665,Johannes Vermeer,OIL
+addproduct,Painting,20,Naked Man,1400,750,2013,Banksy,ACRYLIC
+addproduct,Furniture,21,Aladin's Carpet,1000,500,1174,Carpet,Wool
+addproduct,Jewel,22,Anubis Ruby,1500,800,2,Platinum,true
+addproduct,Jewel,23,Colier de Abanos +9,500,100,2004,Wood,false
+addproduct,Furniture,24,Old Clock,1000,400,1899,Clock,Wood
+addproduct,Painting,25,The Last Supper,2000,1000,1490,Leonardo da Vinci,OIL
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Juridical,1004,Oltchim,Calea Bucuresti,SA,30
+addclient,Juridical,1007,MacroREX,Str. Patimii,SRL,20
+addclient,Juridical,1008,Varga,Str. Antonescu,SA,35
+addbroker
+addclient,Juridical,1009,Pigna,Sos. Banatului,SRL,20
+addbroker
+addclient,Juridical,1012,Pirelli,Str. Draganesti,SRL,50
+addbroker
+addclient,Juridical,1013,Minerva,Str. Ploiesti,SA,15
+addbroker
+printclients
+printproducts
+bidforproduct,clientID,1003,productID,12,maxprice,400
+bidforproduct,clientID,1003,productID,13,maxprice,300
+bidforproduct,clientID,1003,productID,21,maxprice,600
+bidforproduct,clientID,1003,productID,25,maxprice,900
+bidforproduct,clientID,1003,productID,20,maxprice,1000
+bidforproduct,clientID,1013,productID,12,maxprice,450
+bidforproduct,clientID,1013,productID,13,maxprice,250
+bidforproduct,clientID,1013,productID,11,maxprice,800
+bidforproduct,clientID,1013,productID,25,maxprice,750
+bidforproduct,clientID,1013,productID,20,maxprice,1050
+bidforproduct,clientID,1007,productID,12,maxprice,500
+bidforproduct,clientID,1007,productID,13,maxprice,400
+bidforproduct,clientID,1007,productID,21,maxprice,500
+bidforproduct,clientID,1007,productID,25,maxprice,1000
+bidforproduct,clientID,1007,productID,20,maxprice,1050
+bidforproduct,clientID,1004,productID,12,maxprice,200
+bidforproduct,clientID,1004,productID,13,maxprice,500
+bidforproduct,clientID,1004,productID,11,maxprice,800
+bidforproduct,clientID,1009,productID,25,maxprice,800
+bidforproduct,clientID,1009,productID,20,maxprice,1000
+bidforproduct,clientID,1008,productID,12,maxprice,400
+bidforproduct,clientID,1008,productID,13,maxprice,350
+bidforproduct,clientID,1008,productID,21,maxprice,700
+bidforproduct,clientID,1012,productID,25,maxprice,950
+bidforproduct,clientID,1012,productID,20,maxprice,950
+printproducts
+printclients
+quit

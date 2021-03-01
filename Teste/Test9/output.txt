@@ -1,0 +1,213 @@
+Auction House has started! (1 Admin and 6 Brokers)
+
+Product Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0 has been added!
+
+Product Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+List with all products:
+
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 28
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 35
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 20
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 20
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 21
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 16
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 28
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 17
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 16
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 21
+
+In auction 21, in the round 1, the winner is Bill Gates (current offer 762.0923317477053EUR)
+
+Client Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 0, Auctions won: 0 is interested in product with id 17
+
+In auction 17, in the round 1, the winner is Matei Lupu (current offer 929.0975416923203EUR)
+
+In auction 21, in the round 2, the winner is Bill Gates (current offer 763.4087514660783EUR)
+
+Client Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 0, Auctions won: 0 is interested in product with id 35
+
+In auction 17, in the round 2, the winner is MacroREX (current offer 1013.7946943612253EUR)
+
+In auction 21, in the round 3, the winner is Bill Gates (current offer 785.6641789759176EUR)
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 has been added!
+
+Product with id 17 has been sold for 1013.7946943612253EUR
+
+In auction 21, in the round 4, the winner is Bill Gates (current offer 794.9369617953038EUR)
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 has been added!
+
+Product with id 21 has been sold for 794.9369617953038EUR
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+List with all clients:
+
+Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 1, Auctions won: 0
+Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 1, Auctions won: 1
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 2, Auctions won: 1, Social capital: 20.0
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0
+
+List with all products:
+
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Painting OIL) Guernica (id: 16) from year 1937 by Pablo Picasso. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 28
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 35
+
+In auction 35, in the round 1, the winner is Matei Lupu (current offer 833.5475296170567EUR)
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 20
+
+In auction 35, in the round 2, the winner is Bill Gates (current offer 886.1949720404401EUR)
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 16
+
+In auction 16, in the round 1, the winner is Maria Ionescu (current offer 919.056840002976EUR)
+
+Product with id 35 has been sold for 886.1949720404401EUR
+
+
+PRODUCT NOT FOUND
+
+In auction 16, in the round 2, the winner is Maria Ionescu (current offer 977.0396819981788EUR)
+
+List with all brokers and their profit:
+
+Broker with profit 0.0
+Broker with profit 430.6876679983944
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 158.98739235906078
+
+
+List with all products:
+
+In auction 16, in the round 3, the winner is Maria Ionescu (current offer 985.6861783890696EUR)
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Painting TEMPERA) The Birth of Venus (id: 30) from year 1486 by Sandro Botticelli. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0
+Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Jewel) Queen Victoria's Necklace (id: 14) from year 1837 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) Queen Victoria's Earrings (id: 15) from year 1832 made of Gold. Last selling price: 1200.0, Minimum sell price: 750.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+
+Product with id 16 has been sold for 985.6861783890696EUR
+
+List with all clients:
+
+Natural Person Matei Lupu (id: 1005), with address: Splaiul Independentei, birthday date: 1.2.1982. Attendances: 2, Auctions won: 0
+Natural Person Bill Gates (id: 1006), with address: Str. Florii, birthday date: 28.10.1865. Attendances: 3, Auctions won: 2
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 3, Auctions won: 1, Social capital: 20.0
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 1, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 1, Auctions won: 1
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0
+
+Process finished with exit code 0

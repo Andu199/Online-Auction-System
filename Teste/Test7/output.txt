@@ -1,0 +1,191 @@
+Auction House has started! (1 Admin and 5 Brokers)
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 has been added!
+
+Product Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0 has been added!
+
+Product Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 19
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 21
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 3
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 18
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 19
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 25
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 25
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 is interested in product with id 3
+
+In auction 3, in the round 1, the winner is Popeci (current offer 348.00292273643004EUR)
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 has been added!
+
+In auction 3, in the round 2, the winner is Popeci (current offer 889.5161125793217EUR)
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 has been added!
+
+In auction 3, in the round 3, the winner is Popeci (current offer 907.0416047637591EUR)
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 has been added!
+
+In auction 3, in the round 4, the winner is Popeci (current offer 923.3906020873579EUR)
+
+New Broker has been added!
+
+Product with id 3 has been sold for 923.3906020873579EUR
+
+List with all clients:
+
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 1, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 1, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 1, Auctions won: 0, Social capital: 30.0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0
+Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+List with all products:
+
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel) Regular Expensive Earrings (id: 13) from year 2009 made of Gold. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Armor) King Arthur's Armor (id: 17) from year 1030 made of Steel. Last selling price: 1800.0, Minimum sell price: 950.0
+Product (Furniture Desk) Tesla's Desk (id: 18) from year 1882 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Painting OIL) Girl with a Pearl Earring (id: 19) from year 1665 by Johannes Vermeer. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Painting ACRYLIC) Naked Man (id: 20) from year 2013 by Banksy. Last selling price: 1400.0, Minimum sell price: 750.0
+Product (Furniture Carpet) Aladin's Carpet (id: 21) from year 1174 made of Wool. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Anubis Ruby (id: 22) from year 2 made of Platinum. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel) Colier de Abanos +9 (id: 23) from year 2004 made of Wood. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Furniture Clock) Old Clock (id: 24) from year 1899 made of Wood. Last selling price: 1000.0, Minimum sell price: 400.0
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 1, Auctions won: 0, Social capital: 30.0 is interested in product with id 19
+
+In auction 19, in the round 1, the winner is Oltchim (current offer 345.51870568798387EUR)
+
+In auction 19, in the round 2, the winner is Oltchim (current offer 978.2030399034832EUR)
+
+PRODUCT NOT FOUND
+
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 25
+
+In auction 19, in the round 3, the winner is Oltchim (current offer 1030.896407492919EUR)
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 18
+
+Product with id 19 has been sold for 1030.896407492919EUR
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 is interested in product with id 21
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 is interested in product with id 18
+
+In auction 18, in the round 1, the winner is Pirelli (current offer 452.66328171568523EUR)
+
+In auction 18, in the round 2, the winner is Pirelli (current offer 587.4065316671939EUR)
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 is interested in product with id 21
+
+In auction 21, in the round 1, the winner is Dan Daniel (current offer 488.08010054858994EUR)
+
+Product with id 18 has been sold for 587.4065316671939EUR
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+List with all clients:
+
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 2, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 3, Auctions won: 1, Social capital: 20.0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 2, Auctions won: 1, Social capital: 30.0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0
+Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 1, Auctions won: 0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 1, Auctions won: 1, Social capital: 50.0
+
+In auction 21, in the round 2, the winner is Dan Daniel (current offer 706.6587686420834EUR)
+
+List with all brokers and their profit:
+
+Broker with profit 230.84765052183948
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 257.72410187322976
+Broker with profit 146.85163291679848
+Broker with profit 0.0
+
+In auction 21, in the round 3, the winner is Dan Daniel (current offer 746.5728526104854EUR)
+
+Product with id 21 has been sold for 746.5728526104854EUR
+
+Process finished with exit code 0

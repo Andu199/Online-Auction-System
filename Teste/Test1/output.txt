@@ -1,0 +1,186 @@
+Auction House has started! (1 Admin and 3 Brokers)
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 has been added!
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 has been added!
+
+Product Product (Painting OIL) Gioconda (id: 1) from year 1503 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 100.0 has been added!
+
+Product Product (Painting TEMPERA) Fallen Angel (id: 2) from year 1847 by Alexandre Cabanel. Last selling price: 1500.0, Minimum sell price: 750.0 has been added!
+
+Product Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0 has been added!
+
+Product Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0 has been added!
+
+Product Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+List with all products:
+
+Product (Painting OIL) Gioconda (id: 1) from year 1503 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 100.0
+Product (Painting TEMPERA) Fallen Angel (id: 2) from year 1847 by Alexandre Cabanel. Last selling price: 1500.0, Minimum sell price: 750.0
+Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 6
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 3
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+New Broker has been added!
+
+New Broker has been added!
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 3
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 is interested in product with id 3
+
+In auction 3, in the round 1, the winner is Pablo Escobar (current offer 625.5408373485218EUR)
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 has been added!
+
+In auction 3, in the round 2, the winner is Pablo Escobar (current offer 784.4379828360434EUR)
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 has been added!
+
+In auction 3, in the round 3, the winner is Pablo Escobar (current offer 786.3510962908979EUR)
+
+New Broker has been added!
+
+In auction 3, in the round 4, the winner is Pablo Escobar (current offer 797.1631130626432EUR)
+
+List with all clients:
+
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 0, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 0, Auctions won: 0, Social capital: 20.0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0
+Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0
+
+Product with id 3 has not been sold
+
+Product Product (Furniture Statue) The Seated Woman of Çatalhöyük (id: 31) from year -6000 made of Rock. Last selling price: 1200.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting TEMPERA) Madonna and Child (id: 32) from year 1300 by Duccio. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting ACRYLIC) Evening Landscape with Two Men (id: 33) from year 1835 by Caspar David Friedrich. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Stool) Stool with Woven Seat (id: 34) from year 100 made of Wood & Reed. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Painting ACRYLIC) Forest (id: 35) from year 1904 by Paul Cézanne. Last selling price: 1200.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0 has been added!
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 1, Auctions won: 0 is interested in product with id 6
+
+In auction 6, in the round 1, the winner is Andrei Popescu (current offer 542.8959806202166EUR)
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 1, Auctions won: 0 is interested in product with id 10
+
+In auction 6, in the round 2, the winner is Popeci (current offer 784.3711034155667EUR)
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 0, Social capital: 20.0 is interested in product with id 10
+
+Product with id 6 has been sold for 784.3711034155667EUR
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+Client Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 0, Auctions won: 0, Social capital: 50.0 is interested in product with id 10
+
+Client Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 0, Auctions won: 0 is interested in product with id 10
+
+In auction 10, in the round 1, the winner is Pirelli (current offer 521.0420968857247EUR)
+
+PRODUCT NOT FOUND
+
+
+List with all brokers and their profit:
+
+Broker with profit 196.09277585389168
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+Broker with profit 0.0
+
+In auction 10, in the round 2, the winner is Popeci (current offer 793.8027361935767EUR)
+
+PRODUCT NOT FOUND
+
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 2, Auctions won: 0 is interested in product with id 40
+
+In auction 10, in the round 3, the winner is Pirelli (current offer 905.6371608054866EUR)
+
+Client Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 1, Auctions won: 0 is interested in product with id 40
+
+In auction 10, in the round 4, the winner is Pirelli (current offer 1151.4516687634305EUR)
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 1, Social capital: 20.0 is interested in product with id 40
+
+Product with id 10 has been sold for 1151.4516687634305EUR
+
+Client Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 1, Auctions won: 0, Social capital: 20.0 is interested in product with id 40
+
+In auction 40, in the round 1, the winner is Andrei Popescu (current offer 259.0701521734684EUR)
+
+PRODUCT NOT FOUND
+
+
+List with all clients:
+
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 3, Auctions won: 0
+Natural Person Maria Ionescu (id: 1002), with address: Str. Sararilor, birthday date: 1.4.1988. Attendances: 1, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 3, Auctions won: 1, Social capital: 20.0
+Juridical Person Pigna SRL (id: 1009), with address: Sos. Banatului. Attendances: 1, Auctions won: 0, Social capital: 20.0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0
+Natural Person Dan Daniel (id: 1011), with address: Str. Pietatii, birthday date: 24.6.1975. Attendances: 1, Auctions won: 0
+Juridical Person Pirelli SRL (id: 1012), with address: Str. Draganesti. Attendances: 1, Auctions won: 1, Social capital: 50.0
+
+In auction 40, in the round 2, the winner is Maria Ionescu (current offer 295.1819437942908EUR)
+
+In auction 40, in the round 3, the winner is Andrei Popescu (current offer 297.8951482656459EUR)
+
+In auction 40, in the round 4, the winner is Maria Ionescu (current offer 343.73627294345266EUR)
+
+Product with id 40 has not been sold
+
+Process finished with exit code 0

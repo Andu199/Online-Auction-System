@@ -1,0 +1,56 @@
+start,3
+addclient,Natural,1001,Andrei Popescu,Blv. Iuliu Maniu,5.12.1974
+addclient,Natural,1002,Maria Ionescu,Str. Sararilor,1.4.1988
+addclient,Juridical,1003,Popeci,Str. Kogalniceanu,SRL,20
+addclient,Juridical,1009,Pigna,Sos. Banatului,SRL,20
+addclient,Natural,1010,Pablo Escobar,Str. Vasile Lupu,12.8.1957
+addproduct,Painting,1,Gioconda,2000,100,1503,Leonardo da Vinci,OIL
+addproduct,Painting,2,Fallen Angel,1500,750,1847,Alexandre Cabanel,TEMPERA
+addproduct,Jewel,3,One Ring,1500,800,50,Gold,false
+addproduct,Furniture,4,Royal Table,2000,1000,1561,Table,Wood
+addproduct,Painting,5,Elephants,1200,700,1948,Salvador Dali,OIL
+addproduct,Furniture,6,Royal Chair,800,500,1837,Chair,Gold
+addproduct,Jewel,7,King Arthur's Ring,2000,1250,1012,Gold,true
+addproduct,Furniture,8,Einstein's Bookcase,500,350,1915,Bookcase,Wood
+addproduct,Jewel,9,Regular Expensive Ring,100,20,1957,Silver,true
+addproduct,Painting,10,Splash,1000,500,1999,Unknown,ACRYLIC
+printproducts
+bidforproduct,clientID,1003,productID,6,maxprice,1000
+bidforproduct,clientID,1001,productID,3,maxprice,300
+bidforproduct,clientID,1003,productID,3,maxprice,400
+bidforproduct,clientID,1002,productID,3,maxprice,600
+addbroker
+addbroker
+bidforproduct,clientID,1009,productID,3,maxprince,500
+bidforproduct,clientID,1010,productID,3,maxprice,799
+addclient,Natural,1011,Dan Daniel,Str. Pietatii,24.6.1975
+addclient,Juridical,1012,Pirelli,Str. Draganesti,SRL,50
+addbroker
+printclients
+addproduct,Furniture,31,The Seated Woman of Çatalhöyük,1200,500,-6000,Statue,Rock
+addproduct,Painting,32,Madonna and Child,1600,800,1300,Duccio,TEMPERA
+addproduct,Painting,33,Evening Landscape with Two Men,2000,1000,1835,Caspar David Friedrich,ACRYLIC
+addproduct,Furniture,34,Stool with Woven Seat,1000,500,100,Stool,Wood & Reed
+addproduct,Painting,35,Forest,1200,600,1904,Paul Cézanne,ACRYLIC
+addproduct,Jewel,36,Queen Elisabeth's Necklace,1500,800,1890,Gold,true
+addproduct,Jewel,37,The Grand Duchess Vladimir Tiara,1600,800,1850,Silver,true
+addproduct,Painting,38,American Gothic,1500,700,1930,Grant Wood,OIL
+addproduct,Painting,39,Nighthawks,1300,600,1942,Edward Hopper,OIL
+addproduct,Furniture,40,Chair of Hatnefer,1000,450,1492,Chair,Boxwood
+bidforproduct,clientID,1001,productID,6,maxprice,1200
+bidforproduct,clientID,1001,productID,10,maxprice,700
+bidforproduct,clientID,1003,productID,10,maxprice,1000
+bidforproduct,clientID,1011,productID,6,maxprice,900
+bidforproduct,clientID,1012,productID,6,maxprice,700
+bidforproduct,clientID,1012,productID,10,maxprice,1500
+bidforproduct,clientID,1011,productID,10,maxprice,800
+bidforproduct,clientID,1010,productID,10,maxprice,900
+printbrokers
+bidforproduct,clientID,1010,productID,6,maxprice,950
+bidforproduct,clientID,1001,productID,40,maxprice,300
+bidforproduct,clientID,1002,productID,40,maxprice,500
+bidforproduct,clientID,1003,productID,40,maxprice,200
+bidforproduct,clientID,1009,productID,40,maxprice,50
+bidforproduct,clientID,1010,productID,40,maxprice,100
+printclients
+quit

@@ -1,0 +1,220 @@
+Auction House has started! (1 Admin and 4 Brokers)
+
+Product Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+Product Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0 has been added!
+
+Product Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0 has been added!
+
+Product Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0 has been added!
+
+Product Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0 has been added!
+
+Product Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0 has been added!
+
+Product Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0 has been added!
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 has been added!
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 has been added!
+
+List with all products:
+
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) Nighthawks (id: 39) from year 1942 by Edward Hopper. Last selling price: 1300.0, Minimum sell price: 600.0
+Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0
+
+Client Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0 has been added!
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 39
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 39
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 has been added!
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+New Broker has been added!
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 25
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 0, Auctions won: 0, Social capital: 15.0 is interested in product with id 27
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 27
+
+Client Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 0, Auctions won: 0 is interested in product with id 25
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 has been added!
+
+New Broker has been added!
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 36
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 39
+
+Client Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 0, Auctions won: 0 is interested in product with id 39
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 0, Auctions won: 0, Social capital: 20.0 is interested in product with id 39
+
+In auction 39, in the round 1, the winner is Popeci (current offer 478.7876633434492EUR)
+
+Product Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0 has been added!
+
+In auction 39, in the round 2, the winner is Andrei Popescu (current offer 791.5361895436995EUR)
+
+Product Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0 has been added!
+
+In auction 39, in the round 3, the winner is MacroREX (current offer 816.7522499895272EUR)
+
+Product Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0 has been added!
+
+Product with id 39 has been sold for 816.7522499895272EUR
+
+Product Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0 has been added!
+
+Product Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0 has been added!
+
+Product Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0 has been added!
+
+Product Product (Jewel with gemstone) Regular Expensive Necklace (id: 12) from year 1984 made of Silver. Last selling price: 500.0, Minimum sell price: 100.0 has been added!
+
+List with all products:
+
+Product (Painting OIL) The Last Supper (id: 25) from year 1490 by Leonardo da Vinci. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Painting OIL) The Starry Night (id: 29) from year 1889 by Vincent van Gogh. Last selling price: 1700.0, Minimum sell price: 900.0
+Product (Jewel with gemstone) Queen Elisabeth's Necklace (id: 36) from year 1890 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0
+Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Regular Expensive Necklace (id: 12) from year 1984 made of Silver. Last selling price: 500.0, Minimum sell price: 100.0
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 1, Auctions won: 1, Social capital: 20.0 is interested in product with id 25
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 1, Auctions won: 1, Social capital: 20.0 is interested in product with id 27
+
+In auction 27, in the round 1, the winner is Minerva (current offer 702.5040525256619EUR)
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 0, Social capital: 20.0 is interested in product with id 25
+
+In auction 25, in the round 1, the winner is Andrei Popescu (current offer 851.8817114533185EUR)
+
+In auction 27, in the round 2, the winner is MacroREX (current offer 840.0006204975045EUR)
+
+PRODUCT NOT FOUND
+
+
+List with all clients:
+
+Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 1, Auctions won: 0, Social capital: 15.0
+Natural Person Andrei Popescu (id: 1001), with address: Blv. Iuliu Maniu, birthday date: 5.12.1974. Attendances: 1, Auctions won: 0
+Juridical Person Oltchim SA (id: 1004), with address: Calea Bucuresti. Attendances: 0, Auctions won: 0, Social capital: 30.0
+Natural Person Pablo Escobar (id: 1010), with address: Str. Vasile Lupu, birthday date: 12.8.1957. Attendances: 1, Auctions won: 0
+Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 1, Auctions won: 0, Social capital: 20.0
+Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 1, Auctions won: 1, Social capital: 20.0
+
+Product with id 27 has not been sold
+
+In auction 25, in the round 2, the winner is Andrei Popescu (current offer 1001.4761048954899EUR)
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 2, Auctions won: 1, Social capital: 20.0 is interested in product with id 29
+
+Product with id 25 has been sold for 1001.4761048954899EUR
+
+Client Juridical Person MacroREX SRL (id: 1007), with address: Str. Patimii. Attendances: 3, Auctions won: 1, Social capital: 20.0 is interested in product with id 40
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 36
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 29
+
+Client Juridical Person Popeci SRL (id: 1003), with address: Str. Kogalniceanu. Attendances: 2, Auctions won: 0, Social capital: 20.0 is interested in product with id 26
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 3, Auctions won: 0, Social capital: 15.0 is interested in product with id 36
+
+In auction 36, in the round 1, the winner is Minerva (current offer 908.1655961264291EUR)
+
+In auction 36, in the round 2, the winner is Popeci (current offer 966.7113540247303EUR)
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 3, Auctions won: 0, Social capital: 15.0 is interested in product with id 29
+
+In auction 29, in the round 1, the winner is Popeci (current offer 798.9849825707028EUR)
+
+In auction 36, in the round 3, the winner is Popeci (current offer 993.618435925857EUR)
+
+Client Juridical Person Minerva SA (id: 1013), with address: Str. Ploiesti. Attendances: 3, Auctions won: 0, Social capital: 15.0 is interested in product with id 40
+
+In auction 29, in the round 2, the winner is Minerva (current offer 917.1520076450826EUR)
+
+In auction 36, in the round 4, the winner is Popeci (current offer 996.2439120624891EUR)
+
+PRODUCT NOT FOUND
+
+
+PRODUCT NOT FOUND
+
+
+List with all brokers and their profit:
+
+Broker with profit 0.0
+Broker with profit 204.1880624973818
+Broker with profit 0.0
+Broker with profit 200.295220979098
+Broker with profit 0.0
+Broker with profit 0.0
+
+In auction 29, in the round 3, the winner is Minerva (current offer 969.1057782265752EUR)
+
+Product with id 36 has been sold for 996.2439120624891EUR
+
+List with all products:
+
+Product (Furniture Casket) Byzantine Reliquary Casket (id: 26) from year 897 made of Ivory. Last selling price: 900.0, Minimum sell price: 400.0
+Product (Jewel with gemstone) Hair Ornament (id: 28) from year 1802 made of Gold. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Jewel with gemstone) The Grand Duchess Vladimir Tiara (id: 37) from year 1850 made of Silver. Last selling price: 1600.0, Minimum sell price: 800.0
+Product (Painting OIL) American Gothic (id: 38) from year 1930 by Grant Wood. Last selling price: 1500.0, Minimum sell price: 700.0
+Product (Furniture Chair) Chair of Hatnefer (id: 40) from year 1492 made of Boxwood. Last selling price: 1000.0, Minimum sell price: 450.0
+Product (Jewel) One Ring (id: 3) from year 50 made of Gold. Last selling price: 1500.0, Minimum sell price: 800.0
+Product (Furniture Table) Royal Table (id: 4) from year 1561 made of Wood. Last selling price: 2000.0, Minimum sell price: 1000.0
+Product (Painting OIL) Elephants (id: 5) from year 1948 by Salvador Dali. Last selling price: 1200.0, Minimum sell price: 700.0
+Product (Furniture Chair) Royal Chair (id: 6) from year 1837 made of Gold. Last selling price: 800.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) King Arthur's Ring (id: 7) from year 1012 made of Gold. Last selling price: 2000.0, Minimum sell price: 1250.0
+Product (Furniture Bookcase) Einstein's Bookcase (id: 8) from year 1915 made of Wood. Last selling price: 500.0, Minimum sell price: 350.0
+Product (Jewel with gemstone) Regular Expensive Ring (id: 9) from year 1957 made of Silver. Last selling price: 100.0, Minimum sell price: 20.0
+Product (Painting ACRYLIC) Splash (id: 10) from year 1999 by Unknown. Last selling price: 1000.0, Minimum sell price: 500.0
+Product (Furniture Bed) Royal Bed (id: 11) from year 1712 made of Wood. Last selling price: 2000.0, Minimum sell price: 500.0
+Product (Jewel with gemstone) Regular Expensive Necklace (id: 12) from year 1984 made of Silver. Last selling price: 500.0, Minimum sell price: 100.0
+Product (Painting OIL) The Garden of Earthly Delights (id: 27) from year 1503 by Hieronymus Bosch. Last selling price: 1800.0, Minimum sell price: 900.0
+
+Product with id 29 has been sold for 969.1057782265752EUR
+
+Process finished with exit code 0
